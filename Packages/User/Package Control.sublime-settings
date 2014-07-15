@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Haml",
+		"HTML-CSS-JS Prettify",
+		"HtmlTidy",
+		"JsFormat",
+		"Package Control",
+		"Search in Project",
+		"SublimeBlockCursor",
+		"SublimeLinter",
+		"TidyHTML5"
+	]
+}

@@ -1,0 +1,2731 @@
+{
+	"folder_history":
+	[
+		"/Users/justinsova/dev/avant-basic",
+		"/Users/justinsova/dev/test-angular/search-client",
+		"/Users/justinsova/dev/test-angular/elastic-angular",
+		"/Users/justinsova/avant-basic",
+		"/Users/justinsova/dev/test-angular/angular-elastic",
+		"/Users/justinsova/Downloads/Flat-UI-master/js",
+		"/Users/justinsova/Downloads/Flat-UI-master/less",
+		"/Users/justinsova/Downloads/Flat-UI-master/bootstrap",
+		"/Users/justinsova/Downloads/Flat-UI-master/fonts",
+		"/Users/justinsova/dev/test-angular",
+		"/Users/justinsova/dev/angular-elasticsearch-demo",
+		"/Users/justinsova/dev/cayley",
+		"/Users/justinsova/dev/fitbit",
+		"/Users/justinsova/dev/checkr",
+		"/Users/justinsova/search-engine/avant-spyglass",
+		"/Users/justinsova/search-engine",
+		"/Users/justinsova/search-engine/avant-spyglass/config",
+		"/Users/justinsova/search-engine/autocomplete/example_elasticsearch_autocomplete",
+		"/Users/justinsova/search-engine/rails-test"
+	],
+	"last_window_id": 131,
+	"settings":
+	{
+		"new_window_height": 702.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"customer",
+						"customer"
+					],
+					[
+						"retur",
+						"returnedJSON"
+					],
+					[
+						"query",
+						"querySelector"
+					],
+					[
+						"element",
+						"element"
+					],
+					[
+						"search",
+						"searchRequest"
+					],
+					[
+						"cred",
+						"credit_report_agencies"
+					],
+					[
+						"margin-",
+						"margin-right"
+					],
+					[
+						"fot",
+						"font-size"
+					],
+					[
+						"curre",
+						"currentField"
+					],
+					[
+						"elemen",
+						"elementName"
+					],
+					[
+						"elem",
+						"elementName"
+					],
+					[
+						"create",
+						"create_index"
+					],
+					[
+						"index",
+						"index_document"
+					],
+					[
+						"last",
+						"last_name"
+					],
+					[
+						"customer_",
+						"customer_uuid"
+					],
+					[
+						"firs",
+						"first_name"
+					],
+					[
+						"name",
+						"name"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"format",
+						"Format: Javascript"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"AngularJS: Toggle - Enable data- Prefix"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"java",
+						"Format: Javascript"
+					],
+					[
+						"linter",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"sublimlinter",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"g",
+						"Git: Blame"
+					],
+					[
+						"git blame",
+						"Git: Blame"
+					],
+					[
+						"git bla",
+						"Git: Blame"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"sea",
+						"Search In Project"
+					],
+					[
+						"search",
+						"Search In Project"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/justinsova/Desktop/es files/customer.rb",
+				"/Users/justinsova/Desktop/es files/avant_credit_base_worker.rb",
+				"/Users/justinsova/Desktop/es files/application.rb",
+				"/Users/justinsova/dev/avant-basic/Procfile",
+				"/Users/justinsova/dev/avant-basic/bin/start_development",
+				"/Users/justinsova/Desktop/es files/gemfile-stuff",
+				"/Users/justinsova/dev/avant-basic/Procfile.dev",
+				"/Users/justinsova/dev/avant-basic/script/git filter-branch --force --index-filter \\",
+				"/Users/justinsova/dev/avant-basic/script/index_elastic.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/ast_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/credit_line_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/yodlee_user_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/controllers/bank_accounts_controller.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/credit_report_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/lib/resque/avant_credit_base_worker.rb",
+				"/Users/justinsova/dev/avant-basic/config/database.yml",
+				"/Users/justinsova/dev/avant-basic/config/application.rb",
+				"/Users/justinsova/dev/avant-basic/app/models/person.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/hip_chat_notifier_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/lead_provider_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/payment_file_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/credit_model_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/credit_model_automation_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/screenlog.0",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/elasticsearch_create_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/elasticsearch_update_delete_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/lib/affiliate_reporter/affiliate_reporter.rb",
+				"/Users/justinsova/dev/avant-basic/db/seeds.rb",
+				"/Users/justinsova/dev/avant-basic/app/controllers/api/contracts_controller.rb",
+				"/Users/justinsova/dev/avant-basic/config/resque/schedule.en-US.yml",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/bronto_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/config/initializers/resque.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/overseer_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/models/work_item.rb",
+				"/Users/justinsova/dev/test-angular/search-client/package.json",
+				"/Users/justinsova/dev/test-angular/search-client/karma.conf.js",
+				"/Users/justinsova/dev/test-angular/search-client/partials/results.html",
+				"/Users/justinsova/dev/test-angular/search-client/ops-requests.txt",
+				"/Users/justinsova/dev/test-angular/search-client/bower_components/angular/README.md",
+				"/Users/justinsova/dev/test-angular/search-client/scripts/services.js",
+				"/Users/justinsova/dev/avant-basic/config/environments/development.rb",
+				"/Users/justinsova/dev/avant-basic/app/models/customer.rb",
+				"/Users/justinsova/dev/avant-basic/app/mailers/adverse_action_mailer.rb",
+				"/Users/justinsova/dev/avant-basic/app/views/adverse_action_mailer/adverse_action_notice.html.haml",
+				"/Users/justinsova/dev/avant-basic/test/unit/mailers/adverse_action_mailer_test.rb",
+				"/Users/justinsova/dev/avant-basic/app/models/credit_decision.rb",
+				"/Users/justinsova/dev/avant-basic/app/models/credit_line.rb",
+				"/Users/justinsova/.bash_profile",
+				"/Users/justinsova/dev/avant-basic/script/run_es_indexing.sh",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/application.css",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/global/global.scss",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/v3/application.css.scss",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/v3/globals/_all.css.scss",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/v3/globals/_base.css.scss",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/v3/globals/_theme.css.scss",
+				"/Users/justinsova/dev/avant-basic/lib/tasks/yodlee.rake",
+				"/Users/justinsova/dev/avant-basic/db/schema.rb",
+				"/Users/justinsova/dev/avant-basic/test/fixtures/yodlee_shrike_conclusions.yml",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/global/_homepage.scss",
+				"/Users/justinsova/dev/avant-basic/app/views/documents/letters/_avant_logo.html.erb",
+				"/Users/justinsova/dev/test-angular/elastic-angular/bower_components/angular-animate/README.md",
+				"/Users/justinsova/avant-basic/test/controllers/leads_controller_test.rb",
+				"/Users/justinsova/avant-basic/test/controllers/us_leads_controller_test.rb",
+				"/Users/justinsova/avant-basic/app/controllers/leads_controller.rb",
+				"/Users/justinsova/avant-basic/lib/transform.rb",
+				"/Users/justinsova/avant-basic/app/assets/compat/respond-proxy.html",
+				"/Users/justinsova/dev/test-angular/elastic-angular/scripts/bootstrap-switch.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/bower_components/elasticsearch/elasticsearch.js",
+				"/Users/justinsova/Downloads/bootstrap-switch-master/dist/js/bootstrap-switch.min.js",
+				"/Users/justinsova/Downloads/Flat-UI-master/fonts/flat-ui-icons-regular.eot",
+				"/Users/justinsova/Desktop/testAng.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/app.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/maincontroller.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/bower_components/elasticsearch/elasticsearch.angular.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/scripts/app.js",
+				"/Users/justinsova/avant-basic/app/views/content/rates_terms.html.haml",
+				"/Users/justinsova/avant-basic/lib/state_logic.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/colorado.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/oregon.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/california.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/oregon.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/common.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/generic.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/kansas.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/idaho.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/south_carolina.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/wisconsin.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/common.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/alabama.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/georgia.rb",
+				"/Users/justinsova/avant-basic/app/models/lead.rb",
+				"/Users/justinsova/avant-basic/app/controllers/admin/customer_applications_controller.rb",
+				"/Users/justinsova/avant-basic/etc/cpl_providers.yml",
+				"/Users/justinsova/avant-basic/lib/lead_ownership.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/texas.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/ohio.rb",
+				"/Users/justinsova/avant-basic/lib/tasks/elasticsearch.rake",
+				"/Users/justinsova/search-engine/avant-spyglass/app/views/search/index.html.haml",
+				"/Users/justinsova/search-engine/avant-spyglass/Gemfile",
+				"/Users/justinsova/search-engine/avant-spyglass/config/application.rb",
+				"/Users/justinsova/search-engine/avant-spyglass/app/controllers/application_controller.rb",
+				"/Users/justinsova/search-engine/avant-spyglass/app/controllers/search_controller.rb",
+				"/Users/justinsova/search-engine/avant-spyglass/app/views/layouts/application.html.haml",
+				"/Users/justinsova/search-engine/avant-spyglass/app/assets/javascripts/application.js",
+				"/Users/justinsova/search-engine/avant-spyglass/app/assets/javascripts/search.js",
+				"/Users/justinsova/avant-basic/app/views/content/_privacy.en-GB.html.haml",
+				"/Users/justinsova/avant-basic/app/views/content/_privacy.en-US.html.haml",
+				"/Users/justinsova/avant-basic/app/views/content/_privacy.html.haml",
+				"/Users/justinsova/avant-basic/app/views/shared/_top_nav.html.erb",
+				"/Users/justinsova/avant-basic/app/controllers/content_controller.rb",
+				"/Users/justinsova/avant-basic/app/views/shared/v3/sub-headers/_sub-header.html.haml",
+				"/Users/justinsova/avant-basic/log/.gitkeep",
+				"/Users/justinsova/avant-basic/app/views/content/privacy.html.haml",
+				"/Users/justinsova/avant-basic/config/locales/en-GB.yml",
+				"/Users/justinsova/avant-basic/config/locales/simple_form.en.yml",
+				"/Users/justinsova/avant-basic/config/locales/en.yml",
+				"/Users/justinsova/avant-basic/app/assets/javascripts/angular/libs/index.js",
+				"/Users/justinsova/avant-basic/app/assets/javascripts/angular/libs/angular-ui/ui-utils.js",
+				"/Users/justinsova/avant-basic/app/views/shared/v3/_header.html.haml",
+				"/Users/justinsova/avant-basic/app/views/shared/v3/sub-headers/_job-link.en-US.html.haml",
+				"/Users/justinsova/avant-basic/app/views/shared/v3/sub-headers/_job-link.en-GB.html.haml",
+				"/Users/justinsova/avant-basic/app/views/shared/v3/_about_subheader.html.haml",
+				"/Users/justinsova/avant-basic/lib/customer_identifier.rb",
+				"/Users/justinsova/avant-basic/app/views/admin/customers/search.html.haml",
+				"/Users/justinsova/avant-basic/app/views/admin/credit_lines/search.html.haml",
+				"/Users/justinsova/avant-basic/app/views/admin/loans/search.html.haml",
+				"/Users/justinsova/avant-basic/app/views/admin/credit_lines/_results.html.haml",
+				"/Users/justinsova/avant-basic/app/views/shared/_privacy_notice.html.haml"
+			],
+			"find":
+			{
+				"height": 99.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"json",
+					"as_json",
+					"@queue",
+					"ELASTICSEARCH_QUEUE",
+					"Customer Record queued for updating!",
+					"Customer Record queued to be indexed.",
+					"Record updated",
+					"msg",
+					"fail_with",
+					"credit_model_job_processor",
+					"EventEmitter",
+					"email",
+					"uuid",
+					"avantbase",
+					"enqueue",
+					"Creditreportjobprocessor",
+					"bronto",
+					"queue",
+					":queue",
+					"klass.instance_variable_set(:@queue,",
+					":low",
+					"LOW_PRIORITY_QUEUE  ",
+					":mailer",
+					":overseer",
+					"OVERSEER_QUEUE ",
+					"queue_yodlee_user_data_update",
+					"processor.create",
+					"create",
+					"performer.create",
+					"LOW_PRIORITY_QUEUE",
+					"status_changed",
+					"application_support",
+					"currentField",
+					"$scope.fields",
+					"results",
+					"$scope.error",
+					"error",
+					"searchRequest",
+					",\n",
+					"50",
+					"query",
+					"new",
+					"compileFields",
+					"query",
+					"\"+\"),",
+					"credit_Report_agencies",
+					"cache",
+					"/'\n",
+					"customer",
+					"sendmail",
+					"delivery_method",
+					"yodlee",
+					"last_4",
+					"ssn",
+					"four",
+					"ssn",
+					"small",
+					"color",
+					"small",
+					"end",
+					"$scope",
+					"forEach",
+					"error",
+					"};\n",
+					"inbound",
+					"dob",
+					"Date_of_birth",
+					"inbound",
+					"jQuery",
+					"jquery",
+					"query",
+					")\"",
+					"cpl_source",
+					"cpl",
+					"cpl source",
+					"broker",
+					"inbound",
+					"state active",
+					"active",
+					"fake_inactive",
+					"to_json",
+					"humanized_money_with_symbol",
+					"license",
+					"outline",
+					"privacy",
+					"privacy_notice",
+					"privacy",
+					"sub_header",
+					"'",
+					"span",
+					"menu",
+					"Job Opportunities",
+					"custom_menu_items",
+					"locales/",
+					"Job Opportunities",
+					"job_opportunities",
+					"menu",
+					"about_us",
+					"SpringCoin vs. Other Products",
+					"Press",
+					"Job Opportunities",
+					"def locale_US",
+					"locale_US",
+					"Job Opportunities",
+					"max_fdic",
+					"approve",
+					"contract",
+					"cpmtract",
+					"max_fdic_apr",
+					"647",
+					"fdic",
+					"max_fdic_apr",
+					"Avant::Env",
+					"transunion",
+					"Rails",
+					"Rails.env",
+					"rails.env",
+					"run_rule",
+					"trigram",
+					"attr_factor",
+					"attr",
+					"iovation_report",
+					"simple_comparison",
+					"calculate",
+					"max_fdic_apr",
+					"max_fdic_Apr",
+					"max_fdic",
+					"max_fdic_apr"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"baseworker",
+						"lib/resque/avant_credit_base_worker.rb"
+					],
+					[
+						"avantcredit",
+						"lib/resque/avant_credit_base_worker.rb"
+					],
+					[
+						"git",
+						"script/git filter-branch --force --index-filter \\"
+					],
+					[
+						"rune",
+						"script/run_es_indexing.sh"
+					],
+					[
+						"procfi",
+						"Procfile"
+					],
+					[
+						"start_",
+						"bin/start_development"
+					],
+					[
+						"application",
+						"config/application.rb"
+					],
+					[
+						"elasticsearchc",
+						"app/resque_workers/elasticsearch_create_job_processor.rb"
+					],
+					[
+						"elasticsearchupdatedeletejobprocessor",
+						"app/resque_workers/elasticsearch_update_delete_job_processor.rb"
+					],
+					[
+						"elast",
+						"app/resque_workers/elasticsearch_update_delete_job_processor.rb"
+					],
+					[
+						"elasticsearc",
+						"app/resque_workers/elasticsearch_create_job_processor.rb"
+					],
+					[
+						"credit_model_job_processor",
+						"app/resque_workers/credit_model_automation_job_processor.rb"
+					],
+					[
+						"",
+						"app/resque_workers/credit_report_job_processor.rb"
+					],
+					[
+						"person",
+						"app/models/person.rb"
+					],
+					[
+						"appl",
+						"config/application.rb"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"avantbase",
+						"lib/resque/avant_credit_base_worker.rb"
+					],
+					[
+						"avantcreditbas",
+						"lib/resque/avant_credit_base_worker.rb"
+					],
+					[
+						"brontojobprocessor",
+						"app/resque_workers/bronto_job_processor.rb"
+					],
+					[
+						"workitem",
+						"app/models/work_item.rb"
+					],
+					[
+						"overseerjobprocessor",
+						"app/resque_workers/overseer_job_processor.rb"
+					],
+					[
+						"resque",
+						"config/initializers/resque.rb"
+					],
+					[
+						"credit_report_agencies.yml",
+						"etc/credit_report_agencies.yml"
+					],
+					[
+						"advers",
+						"app/mailers/adverse_action_mailer.rb"
+					],
+					[
+						"adverseaction",
+						"app/views/adverse_action_mailer/adverse_action_notice.html.haml"
+					],
+					[
+						"adverseactiomail",
+						"test/unit/mailers/adverse_action_mailer_test.rb"
+					],
+					[
+						"creditline",
+						"app/models/credit_line.rb"
+					],
+					[
+						"creditdecision",
+						"app/models/credit_decision.rb"
+					],
+					[
+						"adverseactiomailtest",
+						"test/unit/mailers/adverse_action_mailer_test.rb"
+					],
+					[
+						"adverse",
+						"app/mailers/adverse_action_mailer.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"yodlee",
+						"lib/tasks/yodlee.rake"
+					],
+					[
+						"logo",
+						"app/views/documents/letters/_avant_logo.html.erb"
+					],
+					[
+						"customer",
+						"app/models/customer.rb"
+					],
+					[
+						"noaa",
+						"test/unit/noaa_test.rb"
+					],
+					[
+						"usleads",
+						"test/controllers/us_leads_controller_test.rb"
+					],
+					[
+						"transform",
+						"lib/transform.rb"
+					],
+					[
+						"us",
+						"test/controllers/us_leads_controller_test.rb"
+					],
+					[
+						"leadste",
+						"test/controllers/leads_controller_test.rb"
+					],
+					[
+						"cpl",
+						"etc/cpl_providers.yml"
+					],
+					[
+						"leads",
+						"app/controllers/leads_controller.rb"
+					],
+					[
+						"leadown",
+						"lib/lead_ownership.rb"
+					],
+					[
+						"us_leads",
+						"test/controllers/us_leads_controller_test.rb"
+					],
+					[
+						"colorad",
+						"lib/state_logic_module/installment/colorado.rb"
+					],
+					[
+						"state",
+						"lib/state_logic.rb"
+					],
+					[
+						"elastic",
+						"lib/tasks/elasticsearch.rake"
+					],
+					[
+						"oregon",
+						"lib/state_logic_module/installment/oregon.rb"
+					],
+					[
+						"generic",
+						"lib/state_logic_module/webbank/installment/generic.rb"
+					],
+					[
+						"utah",
+						"lib/state_logic_module/installment/utah.rb"
+					],
+					[
+						"californ",
+						"lib/state_logic_module/installment/california.rb"
+					],
+					[
+						"texas",
+						"lib/state_logic_module/installment/texas.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"cookie_bar",
+						"app/views/shared/_cookie_bar.html.haml"
+					],
+					[
+						"privacy",
+						"app/views/content/privacy.html.haml"
+					],
+					[
+						"results",
+						"app/views/admin/credit_lines/_results.html.haml"
+					],
+					[
+						"search",
+						"app/views/admin/loans/search.html.haml"
+					],
+					[
+						"identif",
+						"lib/customer_identifier.rb"
+					],
+					[
+						"/shared/v3/header_content/",
+						"app/views/shared/v3/header_content/content/_index.html.haml"
+					],
+					[
+						"shared/v3/meta",
+						"app/views/shared/v3/_locale_meta_tag.en-GB.html.haml"
+					],
+					[
+						"shared/v3/header",
+						"app/views/shared/v3/_header.html.haml"
+					],
+					[
+						"about",
+						"app/views/content/about_us.html.haml"
+					],
+					[
+						"en-gb",
+						"config/locales/en-GB.yml"
+					],
+					[
+						"bin/start",
+						"bin/start_development_uk"
+					],
+					[
+						"about_us",
+						"app/views/content/about_us.html.haml"
+					],
+					[
+						"california",
+						"lib/state_logic_module/installment/california.rb"
+					],
+					[
+						"wiscons",
+						"lib/state_logic_module/installment/wisconsin.rb"
+					],
+					[
+						"wisconsin",
+						"lib/state_logic_module/installment/wisconsin.rb"
+					],
+					[
+						"illinoi",
+						"lib/state_logic_module/installment/illinois.rb"
+					],
+					[
+						"illi",
+						"lib/state_logic_module/installment/illinois.rb"
+					],
+					[
+						"stat_logic",
+						"lib/state_logic.rb"
+					],
+					[
+						"customer_stat",
+						"lib/customer_stats.rb"
+					],
+					[
+						"creditdeci",
+						"lib/credit_decision_engine.rb"
+					],
+					[
+						"alab",
+						"lib/state_logic_module/installment/alabama.rb"
+					],
+					[
+						"database.yml",
+						"config/database.yml"
+					],
+					[
+						"customer_identifier.rb",
+						"lib/customer_identifier.rb"
+					],
+					[
+						"identity",
+						"app/models/kba/identity_verification.rb"
+					],
+					[
+						"kansas",
+						"lib/state_logic_module/credit_line/kansas.rb"
+					],
+					[
+						"wiscon",
+						"lib/state_logic_module/installment/wisconsin.rb"
+					],
+					[
+						"southda",
+						"lib/state_logic_module/installment/south_dakota.rb"
+					],
+					[
+						"south",
+						"lib/state_logic_module/installment/south_carolina.rb"
+					],
+					[
+						"newme",
+						"lib/state_logic_module/installment/new_mexico.rb"
+					],
+					[
+						"nevada",
+						"lib/state_logic_module/installment/nevada.rb"
+					],
+					[
+						"missouri",
+						"lib/state_logic_module/installment/missouri.rb"
+					],
+					[
+						"idaho",
+						"lib/state_logic_module/installment/idaho.rb"
+					],
+					[
+						"georgia",
+						"lib/state_logic_module/installment/georgia.rb"
+					],
+					[
+						"delaw",
+						"lib/state_logic_module/installment/delaware.rb"
+					],
+					[
+						"calif",
+						"lib/state_logic_module/installment/california.rb"
+					],
+					[
+						"alaba",
+						"lib/state_logic_module/installment/alabama.rb"
+					],
+					[
+						"illinois",
+						"lib/state_logic_module/installment/illinois.rb"
+					],
+					[
+						"idah",
+						"lib/state_logic_module/installment/idaho.rb"
+					],
+					[
+						"dela",
+						"lib/state_logic_module/installment/delaware.rb"
+					],
+					[
+						"maryland",
+						"lib/state_logic_module/credit_line/maryland.rb"
+					],
+					[
+						"state_logic",
+						"lib/state_logic.rb"
+					],
+					[
+						"webbankgeneric.rb",
+						"lib/state_logic_module/webbank/installment/generic.rb"
+					],
+					[
+						"generic_u",
+						"lib/transforms/generic_uk_transform.rb"
+					],
+					[
+						"log/",
+						"log/development.log"
+					],
+					[
+						"dev",
+						"log/development.log"
+					],
+					[
+						"uui",
+						"lib/uuid_helper.rb"
+					],
+					[
+						"schem",
+						"db/schema.rb"
+					],
+					[
+						"quick",
+						"app/views/admin/loans/_quick_bar.html.haml"
+					],
+					[
+						"work_item_data",
+						"lib/data_table/work_items_data_table.rb"
+					],
+					[
+						"work_items_dat",
+						"lib/data_table/work_items_data_table.rb"
+					],
+					[
+						"quickbar",
+						"app/views/admin/loans/_quick_bar.html.haml"
+					],
+					[
+						"planning",
+						"planning/work-items.md"
+					],
+					[
+						"attributes",
+						"app/api/fraud/attributes.rb"
+					],
+					[
+						"product/coll",
+						"app/models/product/collection_processing.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 279.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1005.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"customer",
+						"customer"
+					],
+					[
+						"retur",
+						"returnedJSON"
+					],
+					[
+						"query",
+						"querySelector"
+					],
+					[
+						"element",
+						"element"
+					],
+					[
+						"search",
+						"searchRequest"
+					],
+					[
+						"cred",
+						"credit_report_agencies"
+					],
+					[
+						"margin-",
+						"margin-right"
+					],
+					[
+						"fot",
+						"font-size"
+					],
+					[
+						"curre",
+						"currentField"
+					],
+					[
+						"elemen",
+						"elementName"
+					],
+					[
+						"elem",
+						"elementName"
+					],
+					[
+						"create",
+						"create_index"
+					],
+					[
+						"index",
+						"index_document"
+					],
+					[
+						"last",
+						"last_name"
+					],
+					[
+						"customer_",
+						"customer_uuid"
+					],
+					[
+						"firs",
+						"first_name"
+					],
+					[
+						"name",
+						"name"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/justinsova/dev/avant-basic/Gemfile",
+					"settings":
+					{
+						"buffer_size": 7056,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/justinsova/dev/avant-basic/lib/resque/avant_credit_base_worker.rb",
+					"settings":
+					{
+						"buffer_size": 2787,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/justinsova/dev/avant-basic/app/resque_workers/collections_job_processor.rb",
+					"settings":
+					{
+						"buffer_size": 1124,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/justinsova/dev/avant-basic/app/resque_workers/elasticsearch_update_delete_job_processor.rb",
+					"settings":
+					{
+						"buffer_size": 968,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/justinsova/dev/avant-basic/app/resque_workers/elasticsearch_create_job_processor.rb",
+					"settings":
+					{
+						"buffer_size": 558,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/justinsova/dev/avant-basic/config/application.rb",
+					"settings":
+					{
+						"buffer_size": 5374,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"format",
+						"Format: Javascript"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"AngularJS: Toggle - Enable data- Prefix"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"java",
+						"Format: Javascript"
+					],
+					[
+						"linter",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"sublimlinter",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"g",
+						"Git: Blame"
+					],
+					[
+						"git blame",
+						"Git: Blame"
+					],
+					[
+						"git bla",
+						"Git: Blame"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"sea",
+						"Search In Project"
+					],
+					[
+						"search",
+						"Search In Project"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/justinsova/dev/avant-basic/config/environments/development.rb",
+				"/Users/justinsova/dev/avant-basic/config/environments/production.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/web_bank_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/config/schedule.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/loan_task_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/test/unit/resque_workers/bronto_job_processor_test.rb",
+				"/Users/justinsova/Desktop/es files/elasticsearch_create_job_processor.rb",
+				"/Users/justinsova/Desktop/es files/elasticsearch_update_delete_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/credit_report_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/config/application.rb",
+				"/Users/justinsova/dev/avant-basic/Gemfile",
+				"/Users/justinsova/dev/avant-basic/lib/resque/avant_credit_base_worker.rb",
+				"/Users/justinsova/dev/avant-basic/app/models/customer.rb",
+				"/Users/justinsova/dev/avant-basic/Procfile",
+				"/Users/justinsova/Desktop/es files/database.yml",
+				"/Users/justinsova/dev/avant-basic/script/index_elastic.rb",
+				"/Users/justinsova/dev/avant-basic/script/run_es_indexing.sh",
+				"/Users/justinsova/Desktop/es files/customer.rb",
+				"/Users/justinsova/Desktop/es files/avant_credit_base_worker.rb",
+				"/Users/justinsova/Desktop/es files/application.rb",
+				"/Users/justinsova/dev/avant-basic/bin/start_development",
+				"/Users/justinsova/Desktop/es files/gemfile-stuff",
+				"/Users/justinsova/dev/avant-basic/Procfile.dev",
+				"/Users/justinsova/dev/avant-basic/script/git filter-branch --force --index-filter \\",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/ast_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/credit_line_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/yodlee_user_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/controllers/bank_accounts_controller.rb",
+				"/Users/justinsova/dev/avant-basic/config/database.yml",
+				"/Users/justinsova/dev/avant-basic/app/models/person.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/hip_chat_notifier_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/lead_provider_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/payment_file_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/credit_model_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/credit_model_automation_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/screenlog.0",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/elasticsearch_create_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/elasticsearch_update_delete_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/lib/affiliate_reporter/affiliate_reporter.rb",
+				"/Users/justinsova/dev/avant-basic/db/seeds.rb",
+				"/Users/justinsova/dev/avant-basic/app/controllers/api/contracts_controller.rb",
+				"/Users/justinsova/dev/avant-basic/config/resque/schedule.en-US.yml",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/bronto_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/config/initializers/resque.rb",
+				"/Users/justinsova/dev/avant-basic/app/resque_workers/overseer_job_processor.rb",
+				"/Users/justinsova/dev/avant-basic/app/models/work_item.rb",
+				"/Users/justinsova/dev/test-angular/search-client/package.json",
+				"/Users/justinsova/dev/test-angular/search-client/karma.conf.js",
+				"/Users/justinsova/dev/test-angular/search-client/partials/results.html",
+				"/Users/justinsova/dev/test-angular/search-client/ops-requests.txt",
+				"/Users/justinsova/dev/test-angular/search-client/bower_components/angular/README.md",
+				"/Users/justinsova/dev/test-angular/search-client/scripts/services.js",
+				"/Users/justinsova/dev/avant-basic/app/mailers/adverse_action_mailer.rb",
+				"/Users/justinsova/dev/avant-basic/app/views/adverse_action_mailer/adverse_action_notice.html.haml",
+				"/Users/justinsova/dev/avant-basic/test/unit/mailers/adverse_action_mailer_test.rb",
+				"/Users/justinsova/dev/avant-basic/app/models/credit_decision.rb",
+				"/Users/justinsova/dev/avant-basic/app/models/credit_line.rb",
+				"/Users/justinsova/.bash_profile",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/application.css",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/global/global.scss",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/v3/application.css.scss",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/v3/globals/_all.css.scss",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/v3/globals/_base.css.scss",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/v3/globals/_theme.css.scss",
+				"/Users/justinsova/dev/avant-basic/lib/tasks/yodlee.rake",
+				"/Users/justinsova/dev/avant-basic/db/schema.rb",
+				"/Users/justinsova/dev/avant-basic/test/fixtures/yodlee_shrike_conclusions.yml",
+				"/Users/justinsova/dev/avant-basic/app/assets/stylesheets/global/_homepage.scss",
+				"/Users/justinsova/dev/avant-basic/app/views/documents/letters/_avant_logo.html.erb",
+				"/Users/justinsova/dev/test-angular/elastic-angular/bower_components/angular-animate/README.md",
+				"/Users/justinsova/avant-basic/test/controllers/leads_controller_test.rb",
+				"/Users/justinsova/avant-basic/test/controllers/us_leads_controller_test.rb",
+				"/Users/justinsova/avant-basic/app/controllers/leads_controller.rb",
+				"/Users/justinsova/avant-basic/lib/transform.rb",
+				"/Users/justinsova/avant-basic/app/assets/compat/respond-proxy.html",
+				"/Users/justinsova/dev/test-angular/elastic-angular/scripts/bootstrap-switch.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/bower_components/elasticsearch/elasticsearch.js",
+				"/Users/justinsova/Downloads/bootstrap-switch-master/dist/js/bootstrap-switch.min.js",
+				"/Users/justinsova/Downloads/Flat-UI-master/fonts/flat-ui-icons-regular.eot",
+				"/Users/justinsova/Desktop/testAng.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/app.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/maincontroller.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/bower_components/elasticsearch/elasticsearch.angular.js",
+				"/Users/justinsova/dev/test-angular/elastic-angular/scripts/app.js",
+				"/Users/justinsova/avant-basic/app/views/content/rates_terms.html.haml",
+				"/Users/justinsova/avant-basic/lib/state_logic.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/colorado.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/oregon.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/california.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/oregon.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/common.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/generic.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/kansas.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/idaho.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/south_carolina.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/webbank/installment/wisconsin.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/common.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/alabama.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/georgia.rb",
+				"/Users/justinsova/avant-basic/app/models/lead.rb",
+				"/Users/justinsova/avant-basic/app/controllers/admin/customer_applications_controller.rb",
+				"/Users/justinsova/avant-basic/etc/cpl_providers.yml",
+				"/Users/justinsova/avant-basic/lib/lead_ownership.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/texas.rb",
+				"/Users/justinsova/avant-basic/lib/state_logic_module/installment/ohio.rb",
+				"/Users/justinsova/avant-basic/lib/tasks/elasticsearch.rake",
+				"/Users/justinsova/search-engine/avant-spyglass/app/views/search/index.html.haml",
+				"/Users/justinsova/search-engine/avant-spyglass/Gemfile",
+				"/Users/justinsova/search-engine/avant-spyglass/config/application.rb",
+				"/Users/justinsova/search-engine/avant-spyglass/app/controllers/application_controller.rb",
+				"/Users/justinsova/search-engine/avant-spyglass/app/controllers/search_controller.rb",
+				"/Users/justinsova/search-engine/avant-spyglass/app/views/layouts/application.html.haml",
+				"/Users/justinsova/search-engine/avant-spyglass/app/assets/javascripts/application.js",
+				"/Users/justinsova/search-engine/avant-spyglass/app/assets/javascripts/search.js",
+				"/Users/justinsova/avant-basic/app/views/content/_privacy.en-GB.html.haml",
+				"/Users/justinsova/avant-basic/app/views/content/_privacy.en-US.html.haml",
+				"/Users/justinsova/avant-basic/app/views/content/_privacy.html.haml",
+				"/Users/justinsova/avant-basic/app/views/shared/_top_nav.html.erb",
+				"/Users/justinsova/avant-basic/app/controllers/content_controller.rb",
+				"/Users/justinsova/avant-basic/app/views/shared/v3/sub-headers/_sub-header.html.haml",
+				"/Users/justinsova/avant-basic/log/.gitkeep",
+				"/Users/justinsova/avant-basic/app/views/content/privacy.html.haml",
+				"/Users/justinsova/avant-basic/config/locales/en-GB.yml",
+				"/Users/justinsova/avant-basic/config/locales/simple_form.en.yml",
+				"/Users/justinsova/avant-basic/config/locales/en.yml",
+				"/Users/justinsova/avant-basic/app/assets/javascripts/angular/libs/index.js",
+				"/Users/justinsova/avant-basic/app/assets/javascripts/angular/libs/angular-ui/ui-utils.js",
+				"/Users/justinsova/avant-basic/app/views/shared/v3/_header.html.haml"
+			],
+			"find":
+			{
+				"height": 99.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"state",
+					"Resque::Plugins::Retry",
+					"extend Resque::Plugins::Retry",
+					"@queue",
+					"ELASTICSEARCH_QUEUE",
+					"Customer Record queued for updating!",
+					"Customer Record queued to be indexed.",
+					"Record updated",
+					"msg",
+					"fail_with",
+					"credit_model_job_processor",
+					"EventEmitter",
+					"email",
+					"uuid",
+					"avantbase",
+					"enqueue",
+					"Creditreportjobprocessor",
+					"bronto",
+					"queue",
+					":queue",
+					"klass.instance_variable_set(:@queue,",
+					":low",
+					"LOW_PRIORITY_QUEUE  ",
+					":mailer",
+					":overseer",
+					"OVERSEER_QUEUE ",
+					"queue_yodlee_user_data_update",
+					"processor.create",
+					"create",
+					"performer.create",
+					"LOW_PRIORITY_QUEUE",
+					"status_changed",
+					"application_support",
+					"currentField",
+					"$scope.fields",
+					"results",
+					"$scope.error",
+					"error",
+					"searchRequest",
+					",\n",
+					"50",
+					"query",
+					"new",
+					"compileFields",
+					"query",
+					"\"+\"),",
+					"credit_Report_agencies",
+					"cache",
+					"/'\n",
+					"customer",
+					"sendmail",
+					"delivery_method",
+					"yodlee",
+					"last_4",
+					"ssn",
+					"four",
+					"ssn",
+					"small",
+					"color",
+					"small",
+					"end",
+					"$scope",
+					"forEach",
+					"error",
+					"};\n",
+					"inbound",
+					"dob",
+					"Date_of_birth",
+					"inbound",
+					"jQuery",
+					"jquery",
+					"query",
+					")\"",
+					"cpl_source",
+					"cpl",
+					"cpl source",
+					"broker",
+					"inbound",
+					"state active",
+					"active",
+					"fake_inactive",
+					"to_json",
+					"humanized_money_with_symbol",
+					"license",
+					"outline",
+					"privacy",
+					"privacy_notice",
+					"privacy",
+					"sub_header",
+					"'",
+					"span",
+					"menu",
+					"Job Opportunities",
+					"custom_menu_items",
+					"locales/",
+					"Job Opportunities",
+					"job_opportunities",
+					"menu",
+					"about_us",
+					"SpringCoin vs. Other Products",
+					"Press",
+					"Job Opportunities",
+					"def locale_US",
+					"locale_US",
+					"Job Opportunities",
+					"max_fdic",
+					"approve",
+					"contract",
+					"cpmtract",
+					"max_fdic_apr",
+					"647",
+					"fdic",
+					"max_fdic_apr",
+					"Avant::Env",
+					"transunion",
+					"Rails",
+					"Rails.env",
+					"rails.env",
+					"run_rule",
+					"trigram",
+					"attr_factor",
+					"attr",
+					"iovation_report",
+					"simple_comparison",
+					"calculate",
+					"max_fdic_apr",
+					"max_fdic_Apr",
+					"max_fdic"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/justinsova/dev/avant-basic"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/justinsova/dev/avant-basic/Gemfile",
+							"settings":
+							{
+								"buffer_size": 7056,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2189,
+										2189
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 959.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/justinsova/dev/avant-basic/lib/resque/avant_credit_base_worker.rb",
+							"settings":
+							{
+								"buffer_size": 2787,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										616,
+										616
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/justinsova/dev/avant-basic/app/resque_workers/collections_job_processor.rb",
+							"settings":
+							{
+								"buffer_size": 1124,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1092,
+										1092
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/justinsova/dev/avant-basic/app/resque_workers/elasticsearch_update_delete_job_processor.rb",
+							"settings":
+							{
+								"buffer_size": 968,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32,
+										32
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/justinsova/dev/avant-basic/app/resque_workers/elasticsearch_create_job_processor.rb",
+							"settings":
+							{
+								"buffer_size": 558,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										526,
+										526
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/justinsova/dev/avant-basic/config/application.rb",
+							"settings":
+							{
+								"buffer_size": 5374,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1270.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"position": "-1849 -188 1748 724 -1920 -280 1920 1058 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"resqueworkertest",
+						"test/unit/resque_workers/bronto_job_processor_test.rb"
+					],
+					[
+						"baseworker",
+						"lib/resque/avant_credit_base_worker.rb"
+					],
+					[
+						"avantcredit",
+						"lib/resque/avant_credit_base_worker.rb"
+					],
+					[
+						"git",
+						"script/git filter-branch --force --index-filter \\"
+					],
+					[
+						"rune",
+						"script/run_es_indexing.sh"
+					],
+					[
+						"procfi",
+						"Procfile"
+					],
+					[
+						"start_",
+						"bin/start_development"
+					],
+					[
+						"application",
+						"config/application.rb"
+					],
+					[
+						"elasticsearchc",
+						"app/resque_workers/elasticsearch_create_job_processor.rb"
+					],
+					[
+						"elasticsearchupdatedeletejobprocessor",
+						"app/resque_workers/elasticsearch_update_delete_job_processor.rb"
+					],
+					[
+						"elast",
+						"app/resque_workers/elasticsearch_update_delete_job_processor.rb"
+					],
+					[
+						"elasticsearc",
+						"app/resque_workers/elasticsearch_create_job_processor.rb"
+					],
+					[
+						"credit_model_job_processor",
+						"app/resque_workers/credit_model_automation_job_processor.rb"
+					],
+					[
+						"",
+						"app/resque_workers/credit_report_job_processor.rb"
+					],
+					[
+						"person",
+						"app/models/person.rb"
+					],
+					[
+						"appl",
+						"config/application.rb"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"avantbase",
+						"lib/resque/avant_credit_base_worker.rb"
+					],
+					[
+						"avantcreditbas",
+						"lib/resque/avant_credit_base_worker.rb"
+					],
+					[
+						"brontojobprocessor",
+						"app/resque_workers/bronto_job_processor.rb"
+					],
+					[
+						"workitem",
+						"app/models/work_item.rb"
+					],
+					[
+						"overseerjobprocessor",
+						"app/resque_workers/overseer_job_processor.rb"
+					],
+					[
+						"resque",
+						"config/initializers/resque.rb"
+					],
+					[
+						"credit_report_agencies.yml",
+						"etc/credit_report_agencies.yml"
+					],
+					[
+						"advers",
+						"app/mailers/adverse_action_mailer.rb"
+					],
+					[
+						"adverseaction",
+						"app/views/adverse_action_mailer/adverse_action_notice.html.haml"
+					],
+					[
+						"adverseactiomail",
+						"test/unit/mailers/adverse_action_mailer_test.rb"
+					],
+					[
+						"creditline",
+						"app/models/credit_line.rb"
+					],
+					[
+						"creditdecision",
+						"app/models/credit_decision.rb"
+					],
+					[
+						"adverseactiomailtest",
+						"test/unit/mailers/adverse_action_mailer_test.rb"
+					],
+					[
+						"adverse",
+						"app/mailers/adverse_action_mailer.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"yodlee",
+						"lib/tasks/yodlee.rake"
+					],
+					[
+						"logo",
+						"app/views/documents/letters/_avant_logo.html.erb"
+					],
+					[
+						"customer",
+						"app/models/customer.rb"
+					],
+					[
+						"noaa",
+						"test/unit/noaa_test.rb"
+					],
+					[
+						"usleads",
+						"test/controllers/us_leads_controller_test.rb"
+					],
+					[
+						"transform",
+						"lib/transform.rb"
+					],
+					[
+						"us",
+						"test/controllers/us_leads_controller_test.rb"
+					],
+					[
+						"leadste",
+						"test/controllers/leads_controller_test.rb"
+					],
+					[
+						"cpl",
+						"etc/cpl_providers.yml"
+					],
+					[
+						"leads",
+						"app/controllers/leads_controller.rb"
+					],
+					[
+						"leadown",
+						"lib/lead_ownership.rb"
+					],
+					[
+						"us_leads",
+						"test/controllers/us_leads_controller_test.rb"
+					],
+					[
+						"colorad",
+						"lib/state_logic_module/installment/colorado.rb"
+					],
+					[
+						"state",
+						"lib/state_logic.rb"
+					],
+					[
+						"elastic",
+						"lib/tasks/elasticsearch.rake"
+					],
+					[
+						"oregon",
+						"lib/state_logic_module/installment/oregon.rb"
+					],
+					[
+						"generic",
+						"lib/state_logic_module/webbank/installment/generic.rb"
+					],
+					[
+						"utah",
+						"lib/state_logic_module/installment/utah.rb"
+					],
+					[
+						"californ",
+						"lib/state_logic_module/installment/california.rb"
+					],
+					[
+						"texas",
+						"lib/state_logic_module/installment/texas.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"cookie_bar",
+						"app/views/shared/_cookie_bar.html.haml"
+					],
+					[
+						"privacy",
+						"app/views/content/privacy.html.haml"
+					],
+					[
+						"results",
+						"app/views/admin/credit_lines/_results.html.haml"
+					],
+					[
+						"search",
+						"app/views/admin/loans/search.html.haml"
+					],
+					[
+						"identif",
+						"lib/customer_identifier.rb"
+					],
+					[
+						"/shared/v3/header_content/",
+						"app/views/shared/v3/header_content/content/_index.html.haml"
+					],
+					[
+						"shared/v3/meta",
+						"app/views/shared/v3/_locale_meta_tag.en-GB.html.haml"
+					],
+					[
+						"shared/v3/header",
+						"app/views/shared/v3/_header.html.haml"
+					],
+					[
+						"about",
+						"app/views/content/about_us.html.haml"
+					],
+					[
+						"en-gb",
+						"config/locales/en-GB.yml"
+					],
+					[
+						"bin/start",
+						"bin/start_development_uk"
+					],
+					[
+						"about_us",
+						"app/views/content/about_us.html.haml"
+					],
+					[
+						"california",
+						"lib/state_logic_module/installment/california.rb"
+					],
+					[
+						"wiscons",
+						"lib/state_logic_module/installment/wisconsin.rb"
+					],
+					[
+						"wisconsin",
+						"lib/state_logic_module/installment/wisconsin.rb"
+					],
+					[
+						"illinoi",
+						"lib/state_logic_module/installment/illinois.rb"
+					],
+					[
+						"illi",
+						"lib/state_logic_module/installment/illinois.rb"
+					],
+					[
+						"stat_logic",
+						"lib/state_logic.rb"
+					],
+					[
+						"customer_stat",
+						"lib/customer_stats.rb"
+					],
+					[
+						"creditdeci",
+						"lib/credit_decision_engine.rb"
+					],
+					[
+						"alab",
+						"lib/state_logic_module/installment/alabama.rb"
+					],
+					[
+						"database.yml",
+						"config/database.yml"
+					],
+					[
+						"customer_identifier.rb",
+						"lib/customer_identifier.rb"
+					],
+					[
+						"identity",
+						"app/models/kba/identity_verification.rb"
+					],
+					[
+						"kansas",
+						"lib/state_logic_module/credit_line/kansas.rb"
+					],
+					[
+						"wiscon",
+						"lib/state_logic_module/installment/wisconsin.rb"
+					],
+					[
+						"southda",
+						"lib/state_logic_module/installment/south_dakota.rb"
+					],
+					[
+						"south",
+						"lib/state_logic_module/installment/south_carolina.rb"
+					],
+					[
+						"newme",
+						"lib/state_logic_module/installment/new_mexico.rb"
+					],
+					[
+						"nevada",
+						"lib/state_logic_module/installment/nevada.rb"
+					],
+					[
+						"missouri",
+						"lib/state_logic_module/installment/missouri.rb"
+					],
+					[
+						"idaho",
+						"lib/state_logic_module/installment/idaho.rb"
+					],
+					[
+						"georgia",
+						"lib/state_logic_module/installment/georgia.rb"
+					],
+					[
+						"delaw",
+						"lib/state_logic_module/installment/delaware.rb"
+					],
+					[
+						"calif",
+						"lib/state_logic_module/installment/california.rb"
+					],
+					[
+						"alaba",
+						"lib/state_logic_module/installment/alabama.rb"
+					],
+					[
+						"illinois",
+						"lib/state_logic_module/installment/illinois.rb"
+					],
+					[
+						"idah",
+						"lib/state_logic_module/installment/idaho.rb"
+					],
+					[
+						"dela",
+						"lib/state_logic_module/installment/delaware.rb"
+					],
+					[
+						"maryland",
+						"lib/state_logic_module/credit_line/maryland.rb"
+					],
+					[
+						"state_logic",
+						"lib/state_logic.rb"
+					],
+					[
+						"webbankgeneric.rb",
+						"lib/state_logic_module/webbank/installment/generic.rb"
+					],
+					[
+						"generic_u",
+						"lib/transforms/generic_uk_transform.rb"
+					],
+					[
+						"log/",
+						"log/development.log"
+					],
+					[
+						"dev",
+						"log/development.log"
+					],
+					[
+						"uui",
+						"lib/uuid_helper.rb"
+					],
+					[
+						"schem",
+						"db/schema.rb"
+					],
+					[
+						"quick",
+						"app/views/admin/loans/_quick_bar.html.haml"
+					],
+					[
+						"work_item_data",
+						"lib/data_table/work_items_data_table.rb"
+					],
+					[
+						"work_items_dat",
+						"lib/data_table/work_items_data_table.rb"
+					],
+					[
+						"quickbar",
+						"app/views/admin/loans/_quick_bar.html.haml"
+					],
+					[
+						"planning",
+						"planning/work-items.md"
+					],
+					[
+						"attributes",
+						"app/api/fraud/attributes.rb"
+					],
+					[
+						"product/coll",
+						"app/models/product/collection_processing.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 279.0,
+			"status_bar_visible": true,
+			"window_id": 121,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
